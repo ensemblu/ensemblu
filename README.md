@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📄 <strong><a href="https://htmlpreview.github.io/?https://github.com/ensemblu-corp/assets/raw/main/Axiom_LinkedIn_Carousel.html">What Project Axiom Actually Solves</a></strong>
+  📄 <strong><a href="https://ensemblu-corp.github.io/assets/Axiom_LinkedIn_Carousel.html">What Project Axiom Actually Solves</a></strong>
 </p>
 
 ---
