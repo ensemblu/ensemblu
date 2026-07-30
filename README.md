@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📄 <strong><a href="https://github.com/ensemblu-corp/assets/raw/main/Axiom_LinkedIn_Carousel.html">Project Axiom: Eliminating Framework Waste</a></strong>
+  📄 <strong><a href="https://github.com/ensemblu-corp/assets/raw/main/Axiom_What_Project_Axiom_Solves.html">What Project Axiom Actually Solves</a></strong>
 </p>
 
 ---
