@@ -1,6 +1,16 @@
 # Ensemblu Ecosystem (`com.ensemblu`)
 
-Immutable data-oriented infrastructure for modern Java. Zero reflection magic, zero dependency bloat, zero framework control flow.
+<p align="center">
+  <img src="https://github.com/ensemblu-corp/assets/raw/main/Steel-blue%20geometric%20E%20icon.png" alt="Ensemblu Logo" width="100" />
+</p>
+
+<p align="center">
+  <em>Immutable data-oriented infrastructure for modern Java. Zero reflection magic, zero dependency bloat, zero framework control flow.</em>
+</p>
+
+<p align="center">
+  📄 <strong><a href="https://github.com/ensemblu-corp/assets/raw/main/Axiom_LinkedIn_Carousel.pdf">Project Axiom: Eliminating Framework Waste</a></strong>
+</p>
 
 ---
 
