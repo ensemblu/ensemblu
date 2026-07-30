@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  📄 <strong><a href="https://ensemblu-corp.github.io/assets/Axiom_LinkedIn_Carousel.html">What Project Axiom Actually Solves</a></strong>
+  📄 <strong><a href="https://ensemblu-corp.github.io/assets/Axiom_LinkedIn_Carousel.html">Carousel View</a></strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  📖 <strong><a href="https://ensemblu-corp.github.io/assets/Axiom_Overview.html">Overview Sheet</a></strong>
 </p>
 
 ---
