@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    🌐 <strong><a href="./index.html">Project Axiom Homepage</a></strong>
+    🌐 <strong><a href="https://github.com/ensemblu-corp/ensemblu/blob/main/index.html">Project Axiom Homepage</a></strong>
 </p>
 
 ---
