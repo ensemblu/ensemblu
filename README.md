@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📄 <strong><a href="https://ensemblu-corp.github.io/assets/index.html">Carousel View</a></strong>
+    🌐 <strong><a href="https://ensemblu-corp.github.io/">Project Axiom Homepage</a></strong>
 </p>
 
 ---
