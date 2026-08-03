@@ -1,7 +1,9 @@
+![Ensemblu Ecosystem Banner](https://raw.githubusercontent.com/ensemblu-corp/assets/main/images/github-cover.png)
+
 # Ensemblu Ecosystem (`com.ensemblu`)
 
 <p align="center">
-  <img src="https://github.com/ensemblu-corp/assets/raw/main/Steel-blue%20geometric%20E%20icon.png" alt="Ensemblu Logo" width="100" />
+  <img src="https://raw.githubusercontent.com/ensemblu-corp/assets/main/images/logo-icon.png" alt="Ensemblu Logo" width="100" />
 </p>
 
 <p align="center">
