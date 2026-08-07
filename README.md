@@ -54,3 +54,20 @@
 
 ### [axiom-strike-jdbc](https://github.com/ensemblu-corp/axiom-strike-jdbc)
 * **Description:** The flagship reference implementation showcasing the complete zero-dependency, bare-metal data-oriented stack in action.
+
+---
+
+---
+## Technical Articles & Architecture Notes
+
+<p align="center">
+    📚 <strong><a href="https://github.com/ensemblu-corp/assets/blob/main/blogs">Technical Articles & Architecture Notes</a></strong>
+</p>
+
+Explore the deep dives behind the design, philosophy, and engineering decisions powering the Ensemblu ecosystem:
+
+### [Axiom Type Bridging Guide](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-type-bridging-guide.md)
+* **Description:** A rigorous exploration of how Axiom bypasses heavy ORM type registries, leveraging PostgreSQL coercion families, primitive carriers, and explicit inline `::cast` boundaries to eliminate runtime reflection.
+
+### [Axiom vs. The Java Persistence Landscape](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-vs-java-persistence-landscape.md)
+* **Description:** A head-to-head architectural contrast comparing Axiom's zero-dependency data-oriented pipeline against mainstream enterprise giants like Spring Data, Hibernate, MyBatis, and jOOQ.
