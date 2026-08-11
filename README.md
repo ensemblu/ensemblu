@@ -80,7 +80,7 @@ Explore the design, philosophy, and engineering decisions behind the Ensemblu ec
 
 * **Description:** Head-to-head architectural contrast — Axiom’s zero-reflection pipeline against Hibernate, EclipseLink, Spring Data, jOOQ, Querydsl, MyBatis, Spring JDBC, and JDBI.
 
-### [Axiom 1.0.0 → 2.0.0 — Ultimate Release Changelog](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-2.0.0-changelog.md)
+### [Axiom 1.0.0 → 2.0.0 — Ultimate Release Changelog](https://github.com/ensemblu-corp/assets/blob/main/blogs/changelog-1.0.0-to-2.0.0.md)
 
 * **Description:** Full breaking-change map for the major release: `String` → `byte[]` parsers, `Dop` as final utility, removal of `Dop.toJson` in favour of `JsonEmitter`, Vert.x 5.1.6, migration checklist, and cross-module impact.
 
