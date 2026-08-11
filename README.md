@@ -72,18 +72,18 @@
 
 Explore the design, philosophy, and engineering decisions behind the Ensemblu ecosystem:
 
-### [Axiom Type Bridging Guide](https://ensemblu-corp.github.io/assets/view.html?file=blogs/axiom-type-bridging-guide.md)
+### [Axiom Type Bridging Guide](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-type-bridging-guide.md)
 
 * **Description:** How Axiom avoids heavy ORM type registries — PostgreSQL coercion families, primitive carriers, and explicit inline `::cast` boundaries. When you must cast, and when you must not.
 
-### [Axiom vs. The Java Persistence Landscape](https://ensemblu-corp.github.io/assets/view.html?file=blogs/axiom-vs-java-persistence-landscape.md)
+### [Axiom vs. The Java Persistence Landscape](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-vs-java-persistence-landscape.md)
 
-* **Description:** Head-to-head architectural contrast — Axiom's zero-reflection pipeline against Hibernate, EclipseLink, Spring Data, jOOQ, Querydsl, MyBatis, Spring JDBC, and JDBI.
+* **Description:** Head-to-head architectural contrast — Axiom’s zero-reflection pipeline against Hibernate, EclipseLink, Spring Data, jOOQ, Querydsl, MyBatis, Spring JDBC, and JDBI.
 
-### [Axiom 1.0.0 → 2.0.0 — Ultimate Release Changelog](https://ensemblu-corp.github.io/assets/view.html?file=blogs/changelog-1.0.0-to-2.0.0.md)
+### [Axiom 1.0.0 → 2.0.0 — Ultimate Release Changelog](https://github.com/ensemblu-corp/assets/blob/main/blogs/changelog-1.0.0-to-2.0.0.md)
 
 * **Description:** Full breaking-change map for the major release: `String` → `byte[]` parsers, `Dop` as final utility, removal of `Dop.toJson` in favour of `JsonEmitter`, Vert.x 5.1.6, migration checklist, and cross-module impact.
 
-### [Hard Truths About Java Persistence](https://ensemblu-corp.github.io/assets/view.html?file=blogs/axiom-persistence-hard-truths.md)
+### [Hard Truths About Java Persistence](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-persistence-hard-truths.md)
 
 * **Description:** Eight critical statements — entity-per-table packaging theatre, one-screen-one-query, type-safety without becoming jOOQ/Hibernate, dynamic query as the real topic, production pain from not understanding SQL, ORM popularity as postponed learning, SQL-centric philosophy before NoSQL, and aiming to be an expert at writing SQL.
