@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    🌐 <strong><a href="https://ensemblu-corp.github.io/assets/index.html">Project Axiom Homepage</a></strong>
+  🌐 <strong><a href="https://ensemblu-corp.github.io/assets/index.html">Project Axiom Homepage</a></strong>
 </p>
 
 ---
@@ -19,33 +19,39 @@
 ## Published Packages (Sonatype Central)
 
 ### [axiom](https://github.com/ensemblu-corp/axiom)
+
 * **Description:** The sovereign, zero-dependency foundation for structural governance and persistent data-oriented architecture.
-* **Version:** `1.0.0`
+* **Version:** `2.0.0`
 * **License:** Limited Commercial License
 
 ### [axiom-sovereign](https://github.com/ensemblu-corp/axiom-sovereign)
-* **Description:** The sovereign assembly line, grammar, and foundational language processor for Axiom.
-* **Version:** `1.0.0`
+
+* **Description:** High-performance, byte-native structural parser — the assembly line that turns raw streams into immutable `PersistentMap` structures.
+* **Version:** `2.0.0`
 * **License:** Limited Commercial License
 
 ### [axiom-language](https://github.com/ensemblu-corp/axiom-language)
-* **Description:** The grammar, schema policies, and language processor for Axiom.
-* **Version:** `1.0.0`
+
+* **Description:** Grammar, schema policies, and `SchemaGuard` — perimeter validation against `.axiom` schemas.
+* **Version:** `2.0.0`
 * **License:** Limited Commercial License
 
 ### [axiom-spec](https://github.com/ensemblu-corp/axiom-spec)
-* **Description:** The standard contract and driver interfaces for the Axiom ecosystem.
-* **Version:** `1.0.0`
+
+* **Description:** CSV / JSON / SQL parsers, `JsonEmitter`, database contracts (`AxiomProtocol`), and materializers.
+* **Version:** `2.0.0`
 * **License:** Limited Commercial License
 
 ### [axiom-warp-jdbc](https://github.com/ensemblu-corp/axiom-warp-jdbc)
-* **Description:** The sovereign, SQL-relational adapter and JDBC governance driver for Axiom.
-* **Version:** `1.0.0`
+
+* **Description:** Zero-reflection JDBC execution engine — strikes, bulk ingest, parallel scopes, explicit contracts.
+* **Version:** `2.0.0`
 * **License:** Limited Commercial License
 
 ### [axiom-warp-reactive](https://github.com/ensemblu-corp/axiom-warp-reactive)
-* **Description:** The sovereign, non-blocking asynchronous streaming and backpressure-flow database driver for Axiom.
-* **Version:** `1.0.0`
+
+* **Description:** Non-blocking counterpart on Vert.x 5 — same contract as JDBC, `Future<Result<T>>`, backpressure-aware ingest.
+* **Version:** `2.0.0`
 * **License:** Limited Commercial License
 
 ---
@@ -53,21 +59,31 @@
 ## Reference Demonstration
 
 ### [axiom-strike-jdbc](https://github.com/ensemblu-corp/axiom-strike-jdbc)
-* **Description:** The flagship reference implementation showcasing the complete zero-dependency, bare-metal data-oriented stack in action.
+
+* **Description:** Flagship reference implementation — bare `HttpServer`, `SchemaGuard`, dynamic / bulk / parallel strikes against PostgreSQL. No Spring, no ORM.
 
 ---
 
----
 ## Technical Articles & Architecture Notes
 
 <p align="center">
-    📚 <strong><a href="https://github.com/ensemblu-corp/assets/blob/main/blogs">Technical Articles & Architecture Notes</a></strong>
+  📚 <strong><a href="https://github.com/ensemblu-corp/assets/blob/main/blogs">Technical Articles & Architecture Notes</a></strong>
 </p>
 
-Explore the deep dives behind the design, philosophy, and engineering decisions powering the Ensemblu ecosystem:
+Explore the design, philosophy, and engineering decisions behind the Ensemblu ecosystem:
 
 ### [Axiom Type Bridging Guide](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-type-bridging-guide.md)
-* **Description:** A rigorous exploration of how Axiom bypasses heavy ORM type registries, leveraging PostgreSQL coercion families, primitive carriers, and explicit inline `::cast` boundaries to eliminate runtime reflection.
+
+* **Description:** How Axiom avoids heavy ORM type registries — PostgreSQL coercion families, primitive carriers, and explicit inline `::cast` boundaries. When you must cast, and when you must not.
 
 ### [Axiom vs. The Java Persistence Landscape](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-vs-java-persistence-landscape.md)
-* **Description:** A head-to-head architectural contrast comparing Axiom's zero-dependency data-oriented pipeline against mainstream enterprise giants like Spring Data, Hibernate, MyBatis, and jOOQ.
+
+* **Description:** Head-to-head architectural contrast — Axiom’s zero-reflection pipeline against Hibernate, EclipseLink, Spring Data, jOOQ, Querydsl, MyBatis, Spring JDBC, and JDBI.
+
+### [Axiom 1.0.0 → 2.0.0 — Ultimate Release Changelog](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-2.0.0-changelog.md)
+
+* **Description:** Full breaking-change map for the major release: `String` → `byte[]` parsers, `Dop` as final utility, removal of `Dop.toJson` in favour of `JsonEmitter`, Vert.x 5.1.6, migration checklist, and cross-module impact.
+
+### [Hard Truths About Java Persistence](https://github.com/ensemblu-corp/assets/blob/main/blogs/axiom-persistence-hard-truths.md)
+
+* **Description:** Eight critical statements — entity-per-table packaging theatre, one-screen-one-query, type-safety without becoming jOOQ/Hibernate, dynamic query as the real topic, production pain from not understanding SQL, ORM popularity as postponed learning, SQL-centric philosophy before NoSQL, and aiming to be an expert at writing SQL.
