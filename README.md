@@ -22,7 +22,6 @@
 
 * **Description:** The sovereign, zero-dependency foundation for structural governance and persistent data-oriented architecture.
 * **Version:** `2.0.0`
-* **License:** Limited Commercial License
 
 ### [axiom-sovereign](https://github.com/ensemblu-corp/axiom-sovereign)
 
