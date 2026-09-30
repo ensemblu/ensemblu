@@ -28,31 +28,26 @@
 
 * **Description:** High-performance, byte-native structural parser — the assembly line that turns raw streams into immutable `PersistentMap` structures.
 * **Version:** `2.0.0`
-* **License:** Limited Commercial License
 
 ### [axiom-language](https://github.com/ensemblu-corp/axiom-language)
 
 * **Description:** Grammar, schema policies, and `SchemaGuard` — perimeter validation against `.axiom` schemas.
 * **Version:** `2.0.0`
-* **License:** Limited Commercial License
 
 ### [axiom-spec](https://github.com/ensemblu-corp/axiom-spec)
 
 * **Description:** CSV / JSON / SQL parsers, `JsonEmitter`, database contracts (`AxiomProtocol`), and materializers.
 * **Version:** `2.0.0`
-* **License:** Limited Commercial License
 
 ### [axiom-warp-jdbc](https://github.com/ensemblu-corp/axiom-warp-jdbc)
 
 * **Description:** Zero-reflection JDBC execution engine — strikes, bulk ingest, parallel scopes, explicit contracts.
 * **Version:** `2.0.0`
-* **License:** Limited Commercial License
 
 ### [axiom-warp-reactive](https://github.com/ensemblu-corp/axiom-warp-reactive)
 
 * **Description:** Non-blocking counterpart on Vert.x 5 — same contract as JDBC, `Future<Result<T>>`, backpressure-aware ingest.
 * **Version:** `2.0.0`
-* **License:** Limited Commercial License
 
 ---
 
